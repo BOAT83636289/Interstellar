@@ -45,7 +45,7 @@ As of January 1st, 2024, Replit is [no longer free](https://blog.replit.com/host
 ### GitHub Codespaces
 
 1. Create a GitHub account if you haven't already.
-2. Click "Code" (green button) and then "Create Codespace on main."
+2. Click "Code" (green button) and then "Create Codespace on att 5."
 3. In the terminal at the bottom, paste `npm i && npm run start`.
 4. Respond to the application popup by clicking "Make public."
    > Make sure you actually click the "Make public." button, or the proxy won't function properly.
